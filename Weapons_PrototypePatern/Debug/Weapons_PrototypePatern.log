@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\dev\source\repos\Patterns 15.02\Weapons_PrototypePatern\Source.cpp(4,14): error C2079: 'abstraxt' uses undefined class 'Weapon'
+C:\Users\dev\source\repos\Patterns 15.02\Weapons_PrototypePatern\Source.cpp(5,1): error C2059: syntax error: 'public'
+C:\Users\dev\source\repos\Patterns 15.02\Weapons_PrototypePatern\Source.cpp(8,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\dev\source\repos\Patterns 15.02\Weapons_PrototypePatern\Source.cpp(8,1): error C2059: syntax error: '}'
